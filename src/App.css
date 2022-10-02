@@ -1,0 +1,118 @@
+
+.default {
+  text-decoration: none;
+  color: black;
+}
+
+.home_first_div{
+  display: flex;
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  color: rgb(11,53,88);
+  font-size: 25px;
+}
+
+span{
+  color: rgb(0,107,255);
+}
+
+.home_second_div>p{
+  color: rgb(64,64,64);
+  margin-right: 100px;
+  text-align: left;
+}
+img{
+  width: 120%;
+}
+.first_button{
+  background-color: rgb(0,107,255);
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 10px;
+  border: 0px;
+}
+/* ------------------------------------------------------  */
+.home_forth_div{
+  display: flex;
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  background-color: rgb(247,250,255);
+}
+.home_fifth_div{
+  /* background-color: red; */
+  margin-top: 70px;
+}
+.home_sixth_div{
+  /* background-color: yellow; */
+  margin-left: 150px;
+  margin-top: 100px;
+}
+/* ------------------------------------------------------  */
+.home_seventh_div{
+  display: flex;
+  gap: -50px;
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  color: rgb(11,53,88);
+  font-size: 25px;
+}
+.home_eighth_div{
+  width: 60%;
+  margin-top: 70px;
+  color: rgb(64,64,64);
+  margin-right: 100px;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: left;
+  /* background-color: green; */
+}
+.home_ninth_div{
+  width: 50%;
+}
+
+/* ------------------------------------------------------  */
+.home_tenth_div{
+  display: flex;
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  /* background-color: rgb(247,250,255); */
+}
+.home_eleventh_div{
+  /* background-color: red; */
+  margin-top: 70px;
+}
+.home_twelth_div{
+  /* background-color: yellow; */
+  margin-left: 150px;
+  margin-top: 100px;
+}
+/* ------------------------------------------------------------------------  */
+.home_thirteen_div{
+  display: flex;
+  width: 80%;
+  margin: auto;
+}
+.home_fourteen_div{
+  width: 50%;
+  margin-top: 80px;
+
+}
+.home_fifteen_div{
+  width: 50%;
+}
+.home_fifteen_div>img{
+  width: 100%;
+}
+/* -------------------------------------------------------------------------- */
+.home_twelths_div{
+  /* background-color: yellow; */
+  margin-left: 200px;
+  margin-top: 100px;
+  padding-left: 100px;
+}
